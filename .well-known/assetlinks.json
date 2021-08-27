@@ -1,1 +1,9 @@
-
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.quocash.earn_money",
+    "sha256_cert_fingerprints":
+    ["A2:00:7B:C3:58:A4:D8:95:81:D3:0D:CF:B0:9E:A7:F1:D1:89:F3:1B:40:1A:6E:16:B9:27:C8:85:B8:3A:71:61"]
+  }
+}]
